@@ -60,9 +60,8 @@ export const twitterConfig = {
 - Tailwind CSS
 - lucide-react
 
-## Customization
+## Tailwind CSS Classes
 
-Component uses Tailwind CSS classes:
 
 - `primary-foreground` - Main text color
 - `tertiary-foreground` - Secondary text color
