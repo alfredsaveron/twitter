@@ -14,8 +14,8 @@ export const twitterConfig = {
     following: 21,
     followers: 34,
 
-    avatarUrl: '/design/twitter-avatar.png',
-    bannerUrl: '/design/twitter-banner.png',
+    avatarUrl: '/design/avatar.png',
+    bannerUrl: '/design/banner.png',
 
     profileUrl: 'https://x.com/twitter',
 }
