@@ -42,8 +42,8 @@ export const twitterConfig = {
   isVerified: false,
   
   category: 'Science & Technology',
-  location: 'Vienna, Austria',
-  website: 'yoursite.com',
+  location: 'world',
+  website: 'website',
   joinedDate: 'January 2020',
   
   following: 100,
