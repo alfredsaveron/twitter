@@ -13,7 +13,7 @@ config/twitter.ts        # Configuration
 components/sections/twitter.tsx  # Component
 ```
 
-2. Add your profile images to `public/design/`:
+2. Add your profile images to `/design/`:
    - `twitter-avatar.png` - Profile picture
    - `twitter-banner.png` - Banner image
 
