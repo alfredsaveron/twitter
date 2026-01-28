@@ -20,7 +20,6 @@ components/sections/twitter.tsx  # Component
 3. Create a page to display the profile:
 
 ```tsx
-// app/twitter/page.tsx
 import { TwitterProfile } from '@/components/sections/twitter'
 import { twitterConfig } from '@/config/twitter'
 
