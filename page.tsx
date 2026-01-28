@@ -1,4 +1,4 @@
-import { TwitterProfile } from '@/components/sections/twitter'
+import { TwitterProfile } from '@/section/twitter'
 import { twitterConfig } from '@/config/twitter'
 
 export const metadata = {
