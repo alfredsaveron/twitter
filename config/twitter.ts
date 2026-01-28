@@ -2,7 +2,7 @@ export const twitterConfig = {
     // info
     displayName: 'Twitter',
     username: 'twitter',
-    bio: '', // leave it like '' for no info.
+    bio: '', // leave it as '' for no info.
     isPrivate: true,
     isVerified: false,
 
