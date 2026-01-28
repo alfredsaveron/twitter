@@ -4,6 +4,9 @@
 
 Static Twitter/X profile card for Next.js - no API required. 
 
+> [!TIP]
+> Still cooking this one — it might have some rough edges, so check back later for updates please!
+
 ## Installation
 
 1. Copy the following files to your Next.js project:
