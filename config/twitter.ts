@@ -1,14 +1,14 @@
 export const twitterConfig = {
     // info
-    displayName: 'e',
-    username: 'alfredsaveron',
+    displayName: 'Twitter',
+    username: 'twitter',
     bio: '', // leave it like '' for no info.
     isPrivate: true,
     isVerified: false,
 
     category: 'Science & Technology',
-    location: 'Wien, Österreich',
-    website: 'ege.rip',
+    location: 'world',
+    website: 'github.com',
     joinedDate: 'September 2019',
 
     following: 21,
