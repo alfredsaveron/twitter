@@ -1,6 +1,8 @@
+![Preview](/design/preview.png)
+
 # Twitter/X Card
 
-Customizable Twitter/X profile card component for Next.js applications.
+Static Twitter/X profile card for Next.js - no API required. 
 
 ## Installation
 
