@@ -13,7 +13,7 @@ Static Twitter/X profile card for Next.js - no API required.
 
 ```
 config/twitter.ts        # Configuration
-components/sections/twitter.tsx  # Component
+section/twitter.tsx  # Component
 ```
 
 2. Add your profile images to `/design/`:
@@ -23,7 +23,7 @@ components/sections/twitter.tsx  # Component
 3. Create a page to display the profile:
 
 ```tsx
-import { TwitterProfile } from '@/components/sections/twitter'
+import { TwitterProfile } from '@/section/twitter'
 import { twitterConfig } from '@/config/twitter'
 
 export default function TwitterPage() {
