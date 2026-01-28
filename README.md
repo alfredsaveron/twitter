@@ -17,8 +17,8 @@ components/sections/twitter.tsx  # Component
 ```
 
 2. Add your profile images to `/design/`:
-   - `twitter-avatar.png` - Profile picture
-   - `twitter-banner.png` - Banner image
+   - `avatar.png` - Profile picture
+   - `banner.png` - Banner image
 
 3. Create a page to display the profile:
 
