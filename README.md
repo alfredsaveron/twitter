@@ -57,7 +57,7 @@ export const twitterConfig = {
 
 ## Dependencies
 
-- Next.js 13+ (App Router)
+- Next.js 13+
 - Tailwind CSS
 - lucide-react
 
