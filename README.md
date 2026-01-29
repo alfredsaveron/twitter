@@ -1,4 +1,4 @@
-![Preview](/design/preview.png)
+![Preview](/design/prev.png)
 
 # Twitter/X Card
 
